@@ -1,2 +1,1 @@
-Google Deep Learning Course Materials
-Udacity
+Udacity & EdX data science and Deep Learning course materials
